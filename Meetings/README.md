@@ -1,4 +1,4 @@
-# Guidleines for this repo
+# Guidlines for this repo
 * Maintain a separate file for each month, and once a year completed, copy all the files into a folder of the year's name
 * For full-team meetings, put the minutes in the "All" folder. Similarly, if there are per-team meetings, the minutes must go to corresponding folders
 
